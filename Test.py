@@ -13,4 +13,4 @@ print(double)
 print("Salut Nico !");
 
 def carre(a) :
-    return a*a
+    return 2*a*a
