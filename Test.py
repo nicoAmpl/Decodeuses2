@@ -9,5 +9,5 @@ print(double)
 
 print("Salut Nico !");
 
-def carre(a) :
-    return a*a
+def carre(b) :
+    return b*b
