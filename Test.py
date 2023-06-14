@@ -10,4 +10,7 @@ simple = 4
 double = fonctionDouble(simple)
 print(double)
 
-Print("Salut Nico !")
+print("Salut Nico !");
+
+def carre(a) :
+    return a*a
