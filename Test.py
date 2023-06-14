@@ -6,3 +6,5 @@ def fonctionDouble(a) :
 simple = 4
 double = fonctionDouble(simple)
 print(double)
+
+Print("Salut Nico !")
