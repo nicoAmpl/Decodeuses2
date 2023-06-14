@@ -11,3 +11,6 @@ print("Salut Nico !");
 
 def carre(b) :
     return b*b
+
+def cube(b) :
+    return b*b*b
